@@ -26,40 +26,46 @@ div{
     height: 100%;
 
 }
-.left{
+.left {
     background: blanchedalmond;
     width: 70%;
     height: 100%;
 }
-.top1{
+.box-1{
     width: 100%;
     height: 50%;
-    background: blue;
-}
-.box0{
-    width: 100%;
-    height: 50%;
-    background: black;
     display: flex;
-    justify-content: center;
-    flex-direction: row;
-    align-items: flex-end;
-}
+    justify-content: flex-end;
+    flex-wrap: wrap;
 
-.box1{
-    background: tomato;
+}
+.mini-box1{
+    background: saddlebrown;
     width: 33.3%;
     height: 100%;
 }
-.box2{
-    background: tan;
+.mini-box2{
+    background: rebeccapurple;
     width: 33.3%;
     height: 100%;
 }
-.box3{
-    background: teal;
+.mini-box3{
+    background: #a22255;
     width: 33.3%;
     height: 100%;
-
 }
-
+.mini-box4{
+    background: lawngreen;
+    width: 33.3%;
+    height: 100%;
+}
+.mini-box5{
+    background: fuchsia;
+    width: 33.3%;
+    height: 100%;
+}
+.mini-box6 {
+    background: mediumslateblue;
+    width: 33.3%;
+    height: 100%;
+}
