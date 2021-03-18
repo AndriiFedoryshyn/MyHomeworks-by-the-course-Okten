@@ -1,0 +1,29 @@
+div{
+    text-align: center;
+}
+
+.father{
+    background: gray;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+.top{
+    background: crimson;
+    width: 100%;
+    height: 40%;
+}
+.bottom{
+    background: gold;
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    background: aqua;
+    width: 30%;
+    height: 100%;
+
+}
+
