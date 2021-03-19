@@ -1,0 +1,60 @@
+body{
+    background: blue;
+    width: 1250px;
+    height: 750px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#header{
+    margin: 5px;
+    font-size: 25px;
+    background: tomato;
+    width: 1200px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    width: 1200px;
+    height: 430px;
+    display: flex;
+    justify-content: flex-start;
+}
+#menu{
+    margin: 5px;
+    background: peru;
+    width: 400px;
+    height: 410px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+#menu1{
+    width: 700px;
+    height: 500px;
+}
+.post{
+    margin: 5px;
+    background: fuchsia;
+    width: 785px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 5px;
+    display: flex;
+}
+.footer{
+    background: beige;
+    margin: 5px;
+    width: 1200px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    padding: 30px 50px;
+    font-size: 20px;
+
+}
