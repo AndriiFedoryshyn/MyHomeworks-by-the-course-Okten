@@ -43,7 +43,7 @@ body{
     border-radius: 5px;
     display: flex;
 }
-.footer{
+#zfooter{
     background: beige;
     margin: 5px;
     width: 1200px;
